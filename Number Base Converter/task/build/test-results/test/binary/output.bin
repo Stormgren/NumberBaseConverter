@@ -1,0 +1,182 @@
+[1;31m
+Start test 1[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 2[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 98
+Enter target base: 
+> 2
+Conversion result: 1100010
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 3[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 578
+Enter target base: 
+> 16
+Conversion result: 242
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 795
+Enter target base: 
+> 16
+Conversion result: 31B
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 606
+Enter target base: 
+> 16
+Conversion result: 25E
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 564
+Enter target base: 
+> 16
+Conversion result: 234
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 258
+Enter target base: 
+> 16
+Conversion result: 102
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 4[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 542
+Enter target base: 
+> 8
+Conversion result: 1036
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 473
+Enter target base: 
+> 8
+Conversion result: 731
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 618
+Enter target base: 
+> 8
+Conversion result: 1152
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 740
+Enter target base: 
+> 8
+Conversion result: 1344
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /from
+!Enter number in decimal system:
+> 365
+Enter target base: 
+> 8
+Conversion result: 555
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 5[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 1100001110
+Enter source base: 
+> 2
+#Conversion to decimal result: 782
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 6[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 73
+Enter source base: 
+> 8
+"Conversion to decimal result: 59
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 201
+Enter source base: 
+> 8
+#Conversion to decimal result: 129
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 1465
+Enter source base: 
+> 8
+#Conversion to decimal result: 821
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 315
+Enter source base: 
+> 8
+#Conversion to decimal result: 205
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 1356
+Enter source base: 
+> 8
+#Conversion to decimal result: 750
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
+[1;31m
+Start test 7[0m
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 2e2
+Enter source base: 
+> 16
+#Conversion to decimal result: 738
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 293
+Enter source base: 
+> 16
+#Conversion to decimal result: 659
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 8b
+Enter source base: 
+> 16
+#Conversion to decimal result: 139
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 207
+Enter source base: 
+> 16
+#Conversion to decimal result: 519
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /to
+Enter source number:
+> 381
+Enter source base: 
+> 16
+#Conversion to decimal result: 897
+KDo you want to convert /from decimal or /to decimal? (to quit type /exit)
+> /exit
