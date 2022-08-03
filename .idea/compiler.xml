@@ -11,6 +11,13 @@
       <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
       <module name="Number_Base_Converter.Number_Base_Converter-task-out.main" target="11" />
       <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Ability_to_change.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Deposit.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Gold_mining.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Initialization.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Multiplication.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
       <module name="Number_Base_Converter.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
